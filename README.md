@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HajiAliyev
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... spring framework
+- 🌱 I’m currently learning ... .NET framework
 - 💞️ I’m looking to collaborate on ... IT companies
 - 📫 How to reach me ... hacialiyevvv@gmail.com
 
